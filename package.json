@@ -1,0 +1,11 @@
+{
+  "name": "backend_mega_project",
+  "version": "1.0.0",
+  "description": "Complex Backend hands-on",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manu",
+  "license": "ISC"
+}
